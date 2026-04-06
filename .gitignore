@@ -1,0 +1,16 @@
+# Java and Maven standard ignores
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+/target/
+
+# Intellij IDEA project files
+/.idea/
+
+# macOS Finder files
+.DS_Store
